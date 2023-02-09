@@ -1,0 +1,8 @@
+name: AscentBattle
+version: '${project.version}'
+main: com.github.tacowasa059.ascentbattle.AscentBattle
+api-version: 1.16
+authors: [ TACOWASA059 ]
+commands:
+  ascentbattle:
+    description: plugin setting
